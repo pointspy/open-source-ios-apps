@@ -8803,7 +8803,7 @@
     },
     {
       "title": "RailsCasts",
-      "description": "Ruby on Rails screencasts from https://railscasts.com/",
+      "description": "Ruby on Rails screencasts from http://railscasts.com/",
       "category-ids": [
         "apple-tv"
       ],
@@ -10047,7 +10047,7 @@
       ],
       "description": "A comprehensive barcode reader",
       "source": "https://sourceforge.net/projects/zbar/",
-      "homepage": "https://zbar.sourceforge.net/",
+      "homepage": "http://zbar.sourceforge.net/",
       "license": "lgpl-2.1",
       "date_added": "Wed Jun 1 22:58:57 2016 -0600",
       "suggested_by": "@scribblemaniac",
@@ -13526,7 +13526,7 @@
       "date_added": "Dec 21 2016",
       "suggested_by": "@jkandzi",
       "license": "mit",
-      "homepage": "https://monotone.justuskandzi.com",
+      "homepage": "http://monotone.justuskandzi.com",
       "itunes": "https://apps.apple.com/app/monotone-delay/id737483162",
       "stars": 14,
       "updated": "2016-12-21 19:39:53 UTC"
